@@ -1,0 +1,15 @@
+{
+  "name": "crm-app",
+  "version": "1.0.0",
+  "description": "simple spring boot crm crud launched w/ electron for desktop application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "crm": "electron ."
+  },
+  "author": "jenna",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^27.0.0"
+  }
+}
